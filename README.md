@@ -13,9 +13,8 @@ Al centro dell’esperienza c’è una fase di scrittura libera: l’utente desc
 - **Esercizi di respirazione**: tecniche guidate con animazioni e timer personalizzabili  
 - **Attività di rilassamento fisico**: brevi esercizi per sciogliere tensioni e riequilibrare il corpo  
 - **Journaling**: riflessione iniziale e finale per aumentare la consapevolezza e monitorare i benefici  
-- **Contenuti spirituali** (opzionali): spunti edificanti basati sulla spiritualità per chi desidera una dimensione più profonda  
 - **Ambientazione visiva/video**: paesaggi e scene rilassanti con opzioni immersive (es. fullscreen, audio ambientale)  
-- **Coach virtuale (in sviluppo)**: un percorso interattivo che aiuta l’utente a migliorare nella gestione delle emozioni
+- **Coach virtuale**: un percorso interattivo che aiuta l’utente a migliorare nella gestione delle emozioni
 
 Tutti questi elementi sono adattati al *mood* scelto (es. Calma, Energia, Ansia, Motivazione, ecc.), e vengono presentati in una sequenza che rispetta tempi, pause e preferenze utente.
 
